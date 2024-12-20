@@ -42,5 +42,9 @@ This project simulates a virtual assistant named "Jarvis" that can receive and r
    pip install SpeechRecognition
    pip install pyaudio
    ```
+3. Run the Application:
+   ```bash
+   python Jarvis.py
+   ```
 ##
 
